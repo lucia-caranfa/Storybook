@@ -1,0 +1,15 @@
+.button {
+background-color: rgb(60, 158, 223);
+}
+
+.primary {
+    background-color: rgb(57, 126, 63);
+}
+
+.secondary {
+background-color: rgb(116, 29, 199);
+}
+
+.tertiary {
+background-color: rgb(222, 135, 209);
+}
